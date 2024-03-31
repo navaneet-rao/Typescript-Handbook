@@ -23,7 +23,9 @@ With TypeScript, developers can write code using modern JavaScript features whil
 To start using TypeScript in your project, you can follow these steps:
 
 1. **Installation:** Install TypeScript globally via npm using the following command:
+   ```bash
    npm install -g typescript
+   ```
 3. **Initialize a TypeScript Project:** If you're starting a new project, you can initialize a new TypeScript project using the `tsc` command:
    tsc --init
 5. **Write TypeScript Code:** Write your code using TypeScript syntax in `.ts` files. You can use type annotations, interfaces, classes, and other TypeScript features to express your application logic.
