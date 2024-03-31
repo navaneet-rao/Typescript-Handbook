@@ -27,7 +27,9 @@ To start using TypeScript in your project, you can follow these steps:
    npm install -g typescript
    ```
 3. **Initialize a TypeScript Project:** If you're starting a new project, you can initialize a new TypeScript project using the `tsc` command:
+   ```bash
    tsc --init
+   ```
 5. **Write TypeScript Code:** Write your code using TypeScript syntax in `.ts` files. You can use type annotations, interfaces, classes, and other TypeScript features to express your application logic.
 
 6. **Compile TypeScript to JavaScript:** Compile your TypeScript code to JavaScript using the TypeScript compiler (`tsc`). This generates JavaScript files (`*.js`) from your TypeScript source files (`*.ts`).
