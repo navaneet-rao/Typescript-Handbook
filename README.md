@@ -38,10 +38,6 @@ To start using TypeScript in your project, you can follow these steps:
 - [TypeScript Playground](https://www.typescriptlang.org/play): An online editor that allows you to experiment with TypeScript code in a sandbox environment.
 - [TypeScript GitHub Repository](https://github.com/microsoft/TypeScript): Official GitHub repository of TypeScript, where you can report issues, contribute code, and stay updated on the latest releases.
 
-## License:
-
-TypeScript is open-source software released under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0). You can use, modify, and distribute TypeScript according to the terms of this license.
-
 ## Let's Get Typing!
 
 TypeScript offers a powerful set of tools and features that can greatly enhance your JavaScript development experience. Whether you're building a small project or a large-scale application, TypeScript can help you write safer, more maintainable code. Start exploring TypeScript today and unleash the full potential of your JavaScript projects! 🚀
